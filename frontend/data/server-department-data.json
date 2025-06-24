@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Хирургия",
+        "sub title": "Sample subtitle",
+        "link": "/department/surgery"
+    },
+    {
+        "id": 2,
+        "title": "Кардиология",
+        "sub title": "Sample subtitle",
+        "link": "/department/cardio"
+    },
+    {
+        "id": 3,
+        "title": "Педиатрия",
+        "sub title": "Sample subtitle",
+        "link": "/departments"
+    },
+    {
+        "id": 4,
+        "title": "Sample",
+        "sub title": "Sample subtitle",
+        "link": "/departments"
+    },
+    {
+        "id": 5,
+        "title": "Sample",
+        "sub title": "Sample title",
+        "link": "/departments"
+    },
+    {
+        "id": 6,
+        "title": "Sample",
+        "sub title": "Sample subtitle",
+        "link": "/departments"
+    }
+]
