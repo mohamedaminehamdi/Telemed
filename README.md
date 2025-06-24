@@ -1,2 +1,2 @@
-# Telemed
+# healthQare
 doctor appointement management
