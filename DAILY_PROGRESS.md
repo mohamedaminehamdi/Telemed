@@ -4,3 +4,4 @@
 - **Friday, January 02, 2026**: Create User and Doctor models with authentication
 - **Saturday, January 03, 2026**: Implement Patient model and medical history tracking
 - **Sunday, January 04, 2026**: Setup Django admin interface for data management
+- **Monday, January 05, 2026**: Create Appointment model with status tracking
