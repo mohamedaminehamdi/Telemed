@@ -6,3 +6,4 @@
 - **Sunday, January 04, 2026**: Setup Django admin interface for data management
 - **Monday, January 05, 2026**: Create Appointment model with status tracking
 - **Tuesday, January 06, 2026**: Install and configure Django REST Framework
+- **Wednesday, January 07, 2026**: Create API serializers for User and Doctor
