@@ -10,3 +10,4 @@
 - **Thursday, January 08, 2026**: Build basic CRUD endpoints for appointments
 - **Friday, January 09, 2026**: Add pagination and filtering to list endpoints
 - **Saturday, January 10, 2026**: Implement search functionality for doctors
+- **Sunday, January 11, 2026**: Install djangorestframework-simplejwt for JWT
