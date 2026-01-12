@@ -11,3 +11,4 @@
 - **Friday, January 09, 2026**: Add pagination and filtering to list endpoints
 - **Saturday, January 10, 2026**: Implement search functionality for doctors
 - **Sunday, January 11, 2026**: Install djangorestframework-simplejwt for JWT
+- **Monday, January 12, 2026**: Implement token obtain and refresh endpoints
