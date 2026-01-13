@@ -12,3 +12,4 @@
 - **Saturday, January 10, 2026**: Implement search functionality for doctors
 - **Sunday, January 11, 2026**: Install djangorestframework-simplejwt for JWT
 - **Monday, January 12, 2026**: Implement token obtain and refresh endpoints
+- **Tuesday, January 13, 2026**: Create authentication middleware and decorators
