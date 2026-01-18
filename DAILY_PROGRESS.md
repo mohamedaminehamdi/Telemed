@@ -17,3 +17,4 @@
 - **Thursday, January 15, 2026**: Implement user registration with validation
 - **Friday, January 16, 2026**: Add Prescription model with dosage tracking
 - **Saturday, January 17, 2026**: Create VideoConsultation model for sessions
+- **Sunday, January 18, 2026**: Implement MedicalRecord model for history
