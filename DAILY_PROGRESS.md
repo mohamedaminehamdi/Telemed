@@ -21,3 +21,4 @@
 - **Monday, January 19, 2026**: Add Review and Rating system for doctors
 - **Tuesday, January 20, 2026**: Create PrescriptionRefill model for requests
 - **Wednesday, January 21, 2026**: Add Doctor availability slots endpoint
+- **Thursday, January 22, 2026**: Implement prescription creation endpoint
