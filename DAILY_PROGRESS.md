@@ -22,3 +22,4 @@
 - **Tuesday, January 20, 2026**: Create PrescriptionRefill model for requests
 - **Wednesday, January 21, 2026**: Add Doctor availability slots endpoint
 - **Thursday, January 22, 2026**: Implement prescription creation endpoint
+- **Friday, January 23, 2026**: Create video consultation initialization logic
