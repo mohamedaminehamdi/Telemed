@@ -26,3 +26,4 @@
 - **Saturday, January 24, 2026**: Add patient medical profile endpoint
 - **Sunday, January 25, 2026**: Implement appointment confirmation workflow
 - **Monday, January 26, 2026**: Create initial pytest test suite structure
+- **Tuesday, January 27, 2026**: Write tests for authentication endpoints
