@@ -28,3 +28,4 @@
 - **Monday, January 26, 2026**: Create initial pytest test suite structure
 - **Tuesday, January 27, 2026**: Write tests for authentication endpoints
 - **Wednesday, January 28, 2026**: Add API documentation with DRF schema
+- **Thursday, January 29, 2026**: Write tests for appointment endpoints
