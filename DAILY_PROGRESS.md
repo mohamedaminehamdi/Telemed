@@ -34,3 +34,4 @@
 - **Sunday, February 01, 2026**: Initialize Vue 3 project with Vite
 - **Monday, February 02, 2026**: Setup Pinia for state management
 - **Tuesday, February 03, 2026**: Install and configure Router for navigation
+- **Wednesday, February 04, 2026**: Setup Axios with API interceptors
