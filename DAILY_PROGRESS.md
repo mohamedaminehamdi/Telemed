@@ -41,3 +41,4 @@
 - **Sunday, February 08, 2026**: Implement Doctor search and list views
 - **Monday, February 09, 2026**: Create appointment booking form component
 - **Tuesday, February 10, 2026**: Build user profile management interface
+- **Wednesday, February 11, 2026**: Setup auth store with login/logout
