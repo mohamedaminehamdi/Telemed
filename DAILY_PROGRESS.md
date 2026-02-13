@@ -43,3 +43,4 @@
 - **Tuesday, February 10, 2026**: Build user profile management interface
 - **Wednesday, February 11, 2026**: Setup auth store with login/logout
 - **Thursday, February 12, 2026**: Create appointment composable for CRUD
+- **Friday, February 13, 2026**: Implement doctor search store
