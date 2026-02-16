@@ -46,3 +46,4 @@
 - **Friday, February 13, 2026**: Implement doctor search store
 - **Saturday, February 14, 2026**: Add notification system for user feedback
 - **Sunday, February 15, 2026**: Create utility functions and helpers
+- **Monday, February 16, 2026**: Integrate Jitsi for video consultations
