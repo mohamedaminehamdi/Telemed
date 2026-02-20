@@ -50,3 +50,4 @@
 - **Tuesday, February 17, 2026**: Build video consultation UI with controls
 - **Wednesday, February 18, 2026**: Implement in-call chat functionality
 - **Thursday, February 19, 2026**: Create prescription management interface
+- **Friday, February 20, 2026**: Add prescription refill request system
